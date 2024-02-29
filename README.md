@@ -1,2 +1,2 @@
 # Awseome-Fuzzing
-state-of-the-art fuzzing categorize &amp; review
+state-of-the-art fuzzing categorize &amp; review (in issues)
